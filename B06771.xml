@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A young man put to his shifts: or, The ranting young mans resolution, wherein is show'd how young wenches he doth please and of their heavy burdens he doth them ease, with cunning tricks he their fancies up doth feed and they him relieve when he doth stand in need. To the tune of, Cupids Trappan.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06771</idno>
+            <idno type="STC">Wing Y108</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[548]</idno>
+            <idno type="EEBO-CITATION">99887968</idno>
+            <idno type="PROQUEST">ocm99887968</idno>
+            <idno type="VID">183634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183634)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[425])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A young man put to his shifts: or, The ranting young mans resolution, wherein is show'd how young wenches he doth please and of their heavy burdens he doth them ease, with cunning tricks he their fancies up doth feed and they him relieve when he doth stand in need. To the tune of, Cupids Trappan.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray, T. Passenger, and W. Whitwood.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[167-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Verse: "Of late did I hear a young damsel complain ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Man-woman relationships --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="548" facs="tcp:183634:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>A young Man put to his Shifts: Or, The Ranting young mans Reſolution,</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>Wherein is ſhowd how young Wenches he doth pleaſe</hi>
+                  </l>
+                  <l>
+                     <hi>And of their heavy burdens doth them eaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>With cunning tricks he their fancies up doth feed</hi>
+                  </l>
+                  <l>
+                     <hi>And they him relieve when he doth ſtand in need.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>
+               <hi>To the Tune of, <hi>Cupids Trappan.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a woman with fan</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man, hat in hand</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>OF late did <hi>I</hi> hear a young damſel complain</l>
+               <l>and rail much againſt a young man,</l>
+               <l>His cauſe and his ſtate, ile now vindicate,</l>
+               <l>
+                  <hi>and hold battle with Cupids trappan brave boys</hi>
+               </l>
+               <l>
+                  <hi>and hold, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Surely ſhe thinks I am ſtark mad</l>
+               <l>to wed every Girl I do ſee,</l>
+               <l>No let her ſtay a while for I can make a fool</l>
+               <l>
+                  <hi>of twenty far better than ſhe, braveboys</hi>
+               </l>
+               <l>
+                  <hi>of twenty, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For if <hi>I</hi> court a Maid ſhe ſhall get nothing by't</l>
+               <l>for ſo ſoon as her money is gone,</l>
+               <l>And <hi>I</hi> have got her Rings, and other fine things,</l>
+               <l>
+                  <hi>then the divel may take her for <hi>John</hi> brave boys</hi>
+               </l>
+               <l>
+                  <hi>then the, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> can give them fair words but little good déeds</l>
+               <l>any girl of me ſhall find,</l>
+               <l>And if I ſee ſhe will do't then <hi>I</hi> put her to't,</l>
+               <l>
+                  <hi>but ſtrait I can turn with the wind, brave boys</hi>
+               </l>
+               <l>
+                  <hi>but ſtrait, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He's but a fool that will fawn of a Maid,</l>
+               <l>although ſhe ſeem never ſo coy,</l>
+               <l>Make though you'd be gon, ſhe'l bid you come on</l>
+               <l>
+                  <hi>if you tell her you'l get her a boy, brave boys,</hi>
+               </l>
+               <l>
+                  <hi>if you, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But if ſhe don't find thou canſt ſtir up her blood</l>
+               <l>ſhe will laugh and jear thee to thy face,</l>
+               <l>But if ſhe perceives thou canſt do her ſome good</l>
+               <l>
+                  <hi>then thy body ſhe ſtrait ſhe will imbrace brave boys</hi>
+               </l>
+               <l>
+                  <hi>then thy, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As for my own part <hi>I</hi> value it not a pin,</l>
+               <l>I care not what Girl doth it know,</l>
+               <l>But the coyeſt laſs I can eaſily win,</l>
+               <l>
+                  <hi>and bring her unto my own bow, brave boys</hi>
+               </l>
+               <l>
+                  <hi>and bring, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I drink off the beſt, and live at hearts eaſe,</l>
+               <l>for Money I take little care,</l>
+               <l>
+                  <hi>I</hi> can humor young wenches &amp; have what <hi>I</hi> pleaſe</l>
+               <l>
+                  <hi>be it never ſo fine and ſo rare brave boys,</hi>
+               </l>
+               <l>
+                  <hi>be it, &amp;c.</hi>
+               </l>
+            </lg>
+            <p>
+               <pb n="549" facs="tcp:183634:1"/>
+               <!-- PDF PAGE 18 -->
+               <figure>
+                  <figDesc>depiction of a man and a woman in front of two houses</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Count him a noddy that can't win a Maid,</l>
+               <l>to buckle to bow, and ſo bend,</l>
+               <l>And if he ſtands in need to do a good deed,</l>
+               <l>
+                  <hi>&amp; to give him ſome mony in hand, brave boys</hi>
+               </l>
+               <l>and to, &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Tho maidens do ſeem coy on't they long till they ha't</l>
+               <l>either <hi>Mary, Sue, Bridget</hi> or <hi>Nan.</hi>
+               </l>
+               <l>If they were put to their choice for to ly alone</l>
+               <l>
+                  <hi>they had rather to lye with a man brave boys</hi>
+               </l>
+               <l>
+                  <hi>they had &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For dayly and hourely full often it is ſeen</l>
+               <l>what Maiden 'tis will lye alone.</l>
+               <l>If ſhe han't a husband when ſhe is fifteen,</l>
+               <l>
+                  <hi>ſhe thinks ſhe ſhall never have none brave boys</hi>
+               </l>
+               <l>
+                  <hi>ſhe thinks, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So it doth appear how haſty they are</l>
+               <l>the fruits of love for to taſt,</l>
+               <l>It makes their great belly the truth for to tell ye</l>
+               <l>
+                  <hi>they've been a clipping a man about'h waſt brave boys</hi>
+               </l>
+               <l>
+                  <hi>they've, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Their's choice of young damſels <hi>I</hi> have at com<g ref="char:EOLhyphen"/>mand</l>
+               <l>that with mony my pockets both fre</l>
+               <l>And if <hi>I</hi> want a bout, they will not ſtand out,</l>
+               <l>
+                  <hi>to help a good turn in my need, brave boys</hi>
+               </l>
+               <l>
+                  <hi>to help, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If <hi>I</hi> cheat a young damſel the faults none of mine</l>
+               <l>to her ſelf ſhe better may look,</l>
+               <l>For ile lay my baſt by day or night,</l>
+               <l>
+                  <hi>be ſure I take her of my hook, brave boys</hi>
+               </l>
+               <l>
+                  <hi>be ſure, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And when <hi>I</hi> had caught her be ſure ſhe's my own</l>
+               <l>for a little we two do imbrace,</l>
+               <l>But before we go to church <hi>I</hi> leave her ith lurch</l>
+               <l>
+                  <hi>thus I cheat her unto her own face, brave boys</hi>
+               </l>
+               <l>
+                  <hi>thus <hi>I,</hi> &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ile never be bound when I may live free,</l>
+               <l>nor ile never beſide to a wife,</l>
+               <l>Their's ſope fire and candle, a child for to dandle</l>
+               <l>
+                  <hi>which makes a man weary on's life, brave boys</hi>
+               </l>
+               <l>
+                  <hi>which, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So <hi>I</hi> get but the child let who will it keep</l>
+               <l>for my part <hi>I</hi> do mean to keep none,</l>
+               <l>So I have but the ſport let them provide for't</l>
+               <l>
+                  <hi>for ſo ſoon as i've done I am gone, brave boys</hi>
+               </l>
+               <l>
+                  <hi>for ſo, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For if I ſhould keep all the Children I get</l>
+               <l>I ſhould have a great many lives,</l>
+               <l>I wil take a halter and cut my own throat,</l>
+               <l>
+                  <hi>before ile have ſo many wives,</hi>
+               </l>
+               <l>
+                  <hi>before, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For Gentleman-like I live as <hi>I</hi> be</l>
+               <l>and am free from care and ſorrow,</l>
+               <l>It never a penny I have over night,</l>
+               <l>
+                  <hi>be ſure I have ſome the next morrow brave boys</hi>
+               </l>
+               <l>
+                  <hi>be ſure, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So young men ile leave you make uſe of your time</l>
+               <l>for ſo long as my Codyiſs doth hold,</l>
+               <l>I am ſure of this, let it hit or miſs:</l>
+               <l>
+                  <hi>I ſhall want neither Silver nor Gold brave boys</hi>
+               </l>
+               <l>
+                  <hi>I ſhall want neither Silver nor Gold.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London <hi>Printed for</hi> W. Thackeray, T. Paſſenger, <hi>and</hi> W. Whitwood.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
